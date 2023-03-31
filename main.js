@@ -3,8 +3,7 @@ const linksSocialMedia = {
   instagram: 'erico_jonck',
   whatsapp:
     'send?phone=5548988702002&text=Ol%C3%A1+%C3%89rico%2C+gostaria+de+conversar+com+voc%C3%AA.&app_absent=0',
-  facebook: 'erico.jonck',
-  twitter: 'g0nck'
+  facebook: 'erico.jonck'
 }
 
 function changeSocialMediaLinks(links) {
